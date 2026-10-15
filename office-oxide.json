@@ -1,16 +1,16 @@
 {
-    "version": "0.1.14",
+    "version": "0.1.15",
     "description": "The fastest Office document toolkit — extract text from DOCX, XLSX, PPTX, DOC, XLS, PPT",
     "homepage": "https://github.com/yfedoseev/office_oxide",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yfedoseev/office_oxide/releases/download/v0.1.14/office_oxide-windows-x86_64-0.1.14.zip",
-            "hash": "9592b5f7c9bad2347a00ba3ab9ae22370ea5ca2336114ed130ae4288e53c409a"
+            "url": "https://github.com/yfedoseev/office_oxide/releases/download/v0.1.15/office_oxide-windows-x86_64-0.1.15.zip",
+            "hash": "d293ebfed1ee17927897caf6a8696e4a1f5230d11a9fab21814aa86be2f4c266"
         },
         "arm64": {
-            "url": "https://github.com/yfedoseev/office_oxide/releases/download/v0.1.14/office_oxide-windows-aarch64-0.1.14.zip",
-            "hash": "cbd9bd1f1c008976341e924af64503e5ffcb8c53e64ad9fd43a1a427577d094b"
+            "url": "https://github.com/yfedoseev/office_oxide/releases/download/v0.1.15/office_oxide-windows-aarch64-0.1.15.zip",
+            "hash": "113b79e215f543582d9a4607c3c4a8fe72048269eded389680065e03dc7fb1c8"
         }
     },
     "bin": [
